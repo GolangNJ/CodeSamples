@@ -1,4 +1,1 @@
-aws lambda update-function-code \
---function-name resizeImages \
---zip-file fileb://main.zip \
---publish
+This code is an example of a lamdda function the responds to AWS S3 upload events.
